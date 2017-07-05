@@ -3,6 +3,8 @@ Camelot is 5-DOF Robotic Manipulator that plays a board game themed after the se
 
 This project remains the cumilative work of two graduate level semester projects, completed two years apart while the author was attending NYU Tandon School of Engineering.
 
+[![Video of AI and VREP simulation footage for Camelot by Eason Smith](http://www.youtube.com/watch?v=uc2t7ujrt4c&t=6s)](http://www.youtube.com/watch?v=uc2t7ujrt4c&t=6s "Artificial Intelligence and Robot ARM Demo for Camelot board game")
+
 Academic Description:
 
 **CS4613 - Artificial Intelligence (Spring 2015):**  The semester long project assignment consisted of writing an AI agent for implementation of an abreviated
