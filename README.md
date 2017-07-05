@@ -1,9 +1,9 @@
 
 Camelot is 5-DOF Robotic Manipulator that plays a board game themed after the sentient computer HAL from "2001: A Space Odyssey" | Author: Eason Smith Eason@EasonRobotics.com 
 
-This project remains the cumilative work of two graduate level semester projects, completed two years apart while the author was attending NYU Tandon School of Engineering.
+[![Video of AI and VREP simulation footage for Camelot by Eason Smith](http://i.imgur.com/pA487Rl.png)](http://www.youtube.com/watch?v=uc2t7ujrt4c "Youtube Clip: Artificial Intelligence and Robot ARM Demo for Camelot board game")
 
-[![Video of AI and VREP simulation footage for Camelot by Eason Smith](http://i.imgur.com/pA487Rl.png)](http://www.youtube.com/watch?v=uc2t7ujrt4c "Artificial Intelligence and Robot ARM Demo for Camelot board game")
+This project remains the cumilative work of two graduate level semester projects, completed two years apart while attending NYU Tandon School of Engineering.
 
 Academic Description:
 
@@ -17,7 +17,7 @@ Artificial Intelligence overview:
   1. Search: Minimax using Alpha-Beta Pruning, Iterative Deepening, Local move ordering  
   2. Static Evaluation: Goal found, Piece Count, Closest Piece to Goal, Average Closeness  
 
-[![Video of AI and VREP simulation footage for Camelot by Eason Smith](http://i.imgur.com/C4EgPg6.png)](http://www.youtube.com/watch?v=uc2t7ujrt4c "Artificial Intelligence and Robot ARM Demo for Camelot board game")
+[![Video of AI and VREP simulation footage for Camelot by Eason Smith](http://i.imgur.com/C4EgPg6.png)](http://www.youtube.com/watch?v=uc2t7ujrt4c "Youtube Clip: Artificial Intelligence and Robot ARM Demo for Camelot board game")
 
 
 **EL5223 - Sensor Based Robotics (Spring 2017):** The semester assignment was to apply lessons learned in class into a non-trivial robotics research project of the students choice
@@ -28,7 +28,7 @@ New features include robotic task and 3D waypoint generation after a move has be
 Submission guidelines included a research paper, all code, vrep scene and graphical elements, as well as a live demonstration of the Robotic manipulator moving pieces and playing the game.
 
 
-[![Video of AI and VREP simulation footage for Camelot by Eason Smith](http://i.imgur.com/sHdqIUr.png)](http://www.youtube.com/watch?v=uc2t7ujrt4c "Artificial Intelligence and Robot ARM Demo for Camelot board game")
+[![Video of AI and VREP simulation footage for Camelot by Eason Smith](http://i.imgur.com/sHdqIUr.png)](http://www.youtube.com/watch?v=uc2t7ujrt4c "Youtube Clip: Artificial Intelligence and Robot ARM Demo for Camelot board game")
 
 
 **How to play:**
