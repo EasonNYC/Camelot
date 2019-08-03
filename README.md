@@ -7,7 +7,7 @@ This project remains the cumilative work of two graduate level semester projects
 
 Academic Description:
 
-**CS4613 - Artificial Intelligence (Spring 2015):**  The semester long project assignment consisted of writing an AI agent for implementation of an abreviated
+**CS4613 - Artificial Intelligence (Spring 2015):**  The semester long project assignment consisted of writing an AI agent for implementation of an abbreviated
 version of the board game of "Camelot" https://en.wikipedia.org/wiki/Camelot_(board_game) in the language of the students choice.
 All game code for this assignment was written entirely in python by the author, including game logic, the GUI interactive elements,
 and AI agent. While a GUI was required, it was not graded. For fun, the author themed the game after the malicious sentient computer "HAL" from the 1968 film "2001: A Space Odyssey." 
