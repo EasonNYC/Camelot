@@ -226,5 +226,5 @@ This project showcases the practical application of advanced algorithms in robot
 ---
 
 <div align="center">
-  <h3>🎯 "The game is afoot, Dave. Let's see if you can outmaneuver a machine." 🎯</h3>
+  <h3>🎯 "Well, It can only be attributable to human error." 🎯</h3>
 </div>
